@@ -8,6 +8,7 @@
       <Spanish>Tratar >></Spanish>
       <Polish>Opatrz >></Polish>
       <Czech>Vyšetřit >></Czech>
+      <French>Traiter >></French>
     </Key>
     <Key ID="STR_AGM_Medical_Treat_Self">
       <English>Self-treatment >></English>
@@ -15,6 +16,7 @@
       <Spanish>Tratarse >></Spanish>
       <Polish>Opatrz siebie >></Polish>
       <Czech>Vlastní vyšetření</Czech>
+      <French>Traiter (Soi-même)</French>
     </Key>
     <Key ID="STR_AGM_Medical_Diagnose">
       <English>Diagnose</English>
@@ -22,6 +24,7 @@
       <Spanish>Diagnosticar</Spanish>
       <Polish>Diagnozuj</Polish>
       <Czech>Diagnostikovat</Czech>
+      <French>Diagnostic</French>
     </Key>
     <Key ID="STR_AGM_Medical_Inject_Morphine">
       <English>Inject Morphine</English>
@@ -29,6 +32,7 @@
       <Spanish>Inyectar Morfina</Spanish>
       <Polish>Wstrzyknij Morfinę</Polish>
       <Czech>Aplikovat Morfin</Czech>
+      <French>Injecter Morphine</French>
     </Key>
     <Key ID="STR_AGM_Medical_Inject_Epinephrine">
       <English>Inject Epinephrine</English>
@@ -36,6 +40,7 @@
       <Spanish>Inyectar Epinefrina</Spanish>
       <Polish>Wtrzyknij Epinefrynę</Polish>
       <Czech>Aplikovat Adrenalin</Czech>
+      <French>Injecter Epinéphrine</French>
     </Key>
     <Key ID="STR_AGM_Medical_Transfuse_Blood">
       <English>Transfuse Blood</English>
@@ -43,6 +48,7 @@
       <Spanish>Transfundir Sangre</Spanish>
       <Polish>Przetocz Krew</Polish>
       <Czech>Transfúze krve</Czech>
+      <French>Transfuser Sang</French>
     </Key>
     <Key ID="STR_AGM_Medical_Bandage_HitHead">
       <English>Bandage Head</English>
@@ -50,6 +56,7 @@
       <Spanish>Vendar la Cabeza</Spanish>
       <Polish>Bandażuj Głowę</Polish>
       <Czech>Obvázat hlavu</Czech>
+      <French>Bander Tête</French>
     </Key>
     <Key ID="STR_AGM_Medical_Bandage_HitBody">
       <English>Bandage Torso</English>
@@ -57,6 +64,7 @@
       <Spanish>Vendar el Torso</Spanish>
       <Polish>Bandażuj Tors</Polish>
       <Czech>Obvázat hruď</Czech>
+      <French>Bander Torse</French>
     </Key>
     <Key ID="STR_AGM_Medical_Bandage_HitLeftArm">
       <English>Bandage Left Arm</English>
@@ -64,6 +72,7 @@
       <Spanish>Vendar el Brazo Izquierdo</Spanish>
       <Polish>Bandażuj Lewe Ramię</Polish>
       <Czech>Obvázat levou ruku</Czech>
+      <French>Bander Bras Gauche</French>
     </Key>
     <Key ID="STR_AGM_Medical_Bandage_HitRightArm">
       <English>Bandage Right Arm</English>
@@ -71,6 +80,7 @@
       <Spanish>Vendar el Brazo Derecho</Spanish>
       <Polish>Bandażuj Prawe Ramię</Polish>
       <Czech>Obvázat pravou ruku</Czech>
+      <French>Bander Bras Droigt</French>
     </Key>
     <Key ID="STR_AGM_Medical_Bandage_HitLeftLeg">
       <English>Bandage Left Leg</English>
@@ -78,6 +88,7 @@
       <Spanish>Vendar la Pierna Izquierda</Spanish>
       <Polish>Bandażuj Lewą Nogę</Polish>
       <Czech>Obvázat levou nohu</Czech>
+      <French>Bader Jambe Gauche</French>
     </Key>
     <Key ID="STR_AGM_Medical_Bandage_HitRightLeg">
       <English>Bandage Right Leg</English>
@@ -85,6 +96,7 @@
       <Spanish>Vendar la Pierna Derecha</Spanish>
       <Polish>Bandażuj Prawą Nogę</Polish>
       <Czech>Obvázat pravou nohu</Czech>
+      <French>Bander Jambe Droite</French>
     </Key>
     <Key ID="STR_AGM_Medical_Drag">
       <English>Drag</English>
@@ -92,6 +104,7 @@
       <Spanish>Arrastrar</Spanish>
       <Polish>Ciągnij</Polish>
       <Czech>Táhnout</Czech>
+      <French>Tirer</French>
     </Key>
     <Key ID="STR_AGM_Medical_Carry">
       <English>Carry</English>
@@ -99,6 +112,7 @@
       <Spanish>Cargar</Spanish>
       <Polish>Nieś</Polish>
       <Czech>Nést</Czech>
+      <French>Porter</French>
     </Key>
     <Key ID="STR_AGM_Medical_Release">
       <English>Release</English>
@@ -106,6 +120,7 @@
       <Spanish>Soltar</Spanish>
       <Polish>Połóż</Polish>
       <Czech>Položit</Czech>
+      <French>Lâcher</French>
     </Key>
     <Key ID="STR_AGM_Medical_Load">
       <English>Load Patient Into</English>
@@ -113,6 +128,7 @@
       <Spanish>Introducir al Paciente</Spanish>
       <Polish>Załaduj Pacjenta</Polish>
       <Czech>Naložit pacianta do</Czech>
+      <French>Chager Patient Dans</French>
     </Key>
     <Key ID="STR_AGM_Medical_Unload">
       <English>Unload Patient</English>
@@ -120,6 +136,7 @@
       <Spanish>Extraer al Paciente</Spanish>
       <Polish>Wyładuj Pacjenta</Polish>
       <Czech>Vyložit pacienta</Czech>
+      <French>Décharger Patient</French>
     </Key>
 
     <Key ID="STR_AGM_Medical_Diagnosing">
